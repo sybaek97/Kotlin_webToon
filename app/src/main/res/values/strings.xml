@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebToon</string>
+    <string name="backToHistory">마지막으로 돌아가기</string>
+    <string name="changeTab">탭 이름 바꾸기</string>
+</resources>
+
+<!--하드 코딩을 안하는 이유는 다국어 지원 등 나중에 편집에 이점이 있기 떄문-->
